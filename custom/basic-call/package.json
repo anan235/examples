@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@custom/shared": "*",
-    "next": "^11.1.2",
+    "next": "^13.5.0",
     "pluralize": "^8.0.0"
   },
   "devDependencies": {
